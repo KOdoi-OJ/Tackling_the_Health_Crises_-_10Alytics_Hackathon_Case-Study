@@ -1,0 +1,76 @@
+# SUMMARY OF INSIGHTS
+## FOCUS OF REPORT
+This report examined the correlations between healthcare investment, doctors per thousand, and deaths per thousand in African countries. 
+
+## RECOMMENDATIONS
+- The findings suggest that investing in healthcare resources and infrastructure and training more healthcare professionals can be key to reducing the number of deaths per thousand. 
+- In the short term, governments should provide additional training and resources to healthcare professionals to improve their capacity to provide adequate healthcare services and improve healthcare service delivery outcomes.
+- In the medium to long term, the governments need to develop policies and programs aimed at improving public health and reducing the risk factors associated with the leading causes of death in the continent.
+- In any case, more research needs to be conducted in order to better understand the factors driving the prevalent causes of death in the continent and inform decisions on how to develop solutions
+- Dedicate percentage of tax revenue to healthcare improvement; maybe a dedicated levy
+
+## FINDINGS (what informed said recommendations)
+- The majority of African countries invest between 4% to 6% of their GDP on health expenditure as compared to the ~ 9% average for the global north, which needs to improve.
+- The largest causes of death in Africa are Cardiovascular diseases, HIV/AIDS, Neonatal disorders, Diarrheal diseases, Lower respiratory infections, and Malaria, and given the trend over the past ten years, immediate measures are needed to reduce the risk factors associated with them. 
+- Additionally, though there are significant outliers, we learnt that changes in doctors per thousand may explain about 49% of variations in cardiovascular deaths per thousand, but it is not always a good predictor of deaths per thousand; and more research needs to be conducted to better understand the factors driving it in Africa.
+
+## CONCLUSION
+- while preventive measures and further research should be undertaken to reduce the risk factors associated with the leading causes of death in Africa,
+- investing in healthcare resources and infrastructure, and training more healthcare professionals can be key
+
+## LIMITATIONS/ CHALLENGES
+- Needed more micro level data, at least by gender, so that we can check for and be sure of "balance" and equity. Data on actual number of health facilities per country would have been helpful as well. Raw values of expenditure on healthcare and/or raw GDP values instead of the percentage; this would have allowed for more contextualization of comparisons
+
+## AREAS FOR FURTHER EXPLORATION
+- What are the leading causes of death in each country?
+- What countries have the highest/lowest mortality rate? 
+- What is the correlation between Health_Exp_of_GDP and Total_Deaths?
+- What is the relationship between Health Expenditure of GDP and the number of deaths per thousand in each country?
+- What is the breakdown of deaths per thousand by age group?
+- How has the number of deaths changed from year to year?
+- What age group has the highest number of deaths in each country?
+- What are the leading causes of death in each country?
+- What are the most common causes of death in each country?
+- How have cardiovascular diseases, HIV/AIDS, neonatal disorders, diarrheal diseases, and lower respiratory infections contributed to the total deaths among Africans in the different age groups?
+- How have mortality rates changed over time across countries? 
+- Is there a correlation between the number of doctors per thousand and the total number of deaths in each country?
+- What age groups are most affected by mortality?
+- What age groups have the highest number of deaths?
+- Are there any correlations between the percentage of GDP invested in healthcare and the number of deaths in a given country?
+- Are there any common causes of death in certain countries that are more prevalent than others?
+- Are there any countries with lower than average Death_per_thousand rates?
+- What age groups have the highest/lowest mortality rate?
+- What is the population estimate in each country?
+- How has the number of deaths per thousand changed over the years in each country?
+- Are there any countries with higher than average Doctors_per_thousand rates?
+- Does the population estimate have any bearing on the number of deaths per thousand?
+- How does health expenditure as a percentage of GDP vary across countries?
+- What is the correlation between health expenditure as a percentage of GDP and mortality rate?
+- What factors have contributed to the changes in the number of deaths per thousand in each country?
+- Are there any correlations between the number of doctors per thousand people and mortality rate?
+- Is there a correlation between the number of deaths per thousand and the average age of the population in each country?
+- Is there a correlation between the number of doctors per thousand people and deaths per thousand?
+- What is the relationship between Population_estimate and No_of_Deaths_by_Age?
+- Are there any other factors that can explain the differences in the number of deaths per thousand across the countries?
+- Are there any countries with a significant increase or decrease in No_of_Deaths_by_Age between different years?
+- Are there disparities in mortality rates across different population groups?
+- Is there any significant difference between the number of deaths per thousand in countries with higher and lower health expenditure of GDP?
+- What are the mortality rates for each country?
+- Are there any changes or trends in the health expenditure of GDP and the number of doctors per thousand within the same countries?
+- Are there any countries where the Health_Exp_of_GDP is significantly higher or lower than the average?
+- Are there any countries with particularly high mortality rates?
+- Does the number of deaths per thousand differ significantly between countries with higher and lower doctor to population ratios?
+- Are there any correlations between health expenditure and the number of doctors per thousand and the number of deaths per thousand?
+- Are there any trends in the number of deaths per thousand in each age group across different countries?
+- Is there a correlation between Doctors_per_thousand and Death_per_thousand?
+- Is there a correlation between health expenditure and mortality rates?
+- Are there any differences in the causes of death among different age groups?
+- How have the mortality rates changed over time in each country?
+- Is there a correlation between the number of deaths per thousand and the health expenditure of GDP in each country?
+- What are the top three causes of death among different age groups in each country?
+- How has the number of deaths per thousand people changed over the years? 
+- What countries have the highest and lowest health expenditure as a percentage of GDP?
+- What countries have the highest and lowest total number of deaths? 
+- What is the correlation between health expenditure as a percentage of GDP and the number of deaths per thousand people?
+- What is the correlation between the number of physicians per thousand people and the number of deaths per thousand people? 
+- What is the most common cause of death in each age group?
